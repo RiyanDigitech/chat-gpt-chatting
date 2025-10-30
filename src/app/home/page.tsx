@@ -1,0 +1,11 @@
+"use client";
+import "../globals.css";
+export default function Home() {
+  return (
+    <div
+    
+    >
+      Tailwind Working 
+    </div>
+  );
+}
